@@ -16,4 +16,4 @@ def find_anagram(word, anagram):
             return False
     else:
             return False
-print(find_anagram('sweat', 'weats'))
+print(find_anagram('sole', 'lose'))
